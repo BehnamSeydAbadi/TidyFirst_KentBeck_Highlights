@@ -29,3 +29,7 @@ Here is my Highlights of Tidy First? book. It has been written by Kent Beck.
 6. Cohesion Order: Keep classes and functions which are couple to each other close to each other. Try to put files related to each other in the same directory. If there are some couple code and you can afford the decoupling and removing the repeated codes, then do it. To figure it out you can do it or not use this formula: <span> cost(decoupling) + cost(change) < cost(coupling) + cost(change) </span>
 Remember, Sometimes better cohesion helps you live with the coupling.
 </p>
+
+<p align="justify">
+    7. Move Declaration and Initialization Together: Look at the order of the variables declaration, intialization and usage of them. The order of these 3 steps should be in a harmony that keeps the cohesion of the code and logic that helps the developer which reads the code.
+</p>
