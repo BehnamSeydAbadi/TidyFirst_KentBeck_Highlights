@@ -5,6 +5,7 @@ Here is my Highlights of Tidy First? book. It has been written by Kent Beck.
     <img src="./Tidy%20First%20-%20Kent%20Beck%20-%20Highlights.png" />
 </p>
 
+<p
 1. Guard Clauses: Use guard clauses as long as the code does not get complicated. The "Only one return" rule is deprecated and it is for FORTRAN period. It's better to use multiple returns instead of huge gaurd clauses.
 
 2. Dead Code: Just delete it. If the dead code gets needed in future we can get it back from version control.
@@ -17,3 +18,4 @@ Here is my Highlights of Tidy First? book. It has been written by Kent Beck.
 
 6. Cohesion Order: Keep classes and functions which are couple to each other close to each other. Try to put files related to each other in the same directory. If there are some couple code and you can afford the decoupling and removing the repeated codes, then do it. To figure it out you can do it or not use this formula: cost(decoupling) + cost(change) < cost(coupling) + cost(change)
 Remember, Sometimes better cohesion helps you live with the coupling.
+</p>
