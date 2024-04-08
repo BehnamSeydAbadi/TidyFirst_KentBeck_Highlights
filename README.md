@@ -33,3 +33,11 @@ Remember, Sometimes better cohesion helps you live with the coupling.
 <p align="justify">
     7. Move Declaration and Initialization Together: Look at the order of the variables declaration, intialization and usage of them. The order of these 3 steps should be in a harmony that keeps the cohesion of the code and logic that helps the developer which reads the code.
 </p>
+
+<p align="justify">
+    10. Explicit Parameters: Make input parameters of methods explicit. For example dont use hashmap or anonymous object that holds the required data implicitly. 
+</p>
+
+<p align="justify">
+    11. Chunk Statements: You’re reading a big chunk of code and you realize, “Oh, this part does this and then that part does that.” Put a blank line between the parts.
+</p>
