@@ -49,3 +49,7 @@ Remember, Sometimes better cohesion helps you live with the coupling.
 <p align="justify">
     11. Chunk Statements: You’re reading a big chunk of code and you realize, “Oh, this part does this and then that part does that.” Put a blank line between the parts.
 </p>
+
+<p align="justify">
+    12. Extract Helper: If there is chunk of code which has very limited intraction with the rest of the code, you can make it an extension method or in another language a helper method. There is another scenario, when there are some methods which they always have to be executed in a special and constant order, then make a helper method and call those methods in it's body.
+</p>
