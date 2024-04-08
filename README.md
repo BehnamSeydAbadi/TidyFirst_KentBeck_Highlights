@@ -35,6 +35,14 @@ Remember, Sometimes better cohesion helps you live with the coupling.
 </p>
 
 <p align="justify">
+    8. 
+</p>
+
+<p align="justify">
+    9. 
+</p>
+
+<p align="justify">
     10. Explicit Parameters: Make input parameters of methods explicit. For example dont use hashmap or anonymous object that holds the required data implicitly. 
 </p>
 
