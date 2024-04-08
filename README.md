@@ -53,3 +53,7 @@ Remember, Sometimes better cohesion helps you live with the coupling.
 <p align="justify">
     12. Extract Helper: If there is chunk of code which has very limited intraction with the rest of the code, you can make it an extension method or in another language a helper method. There is another scenario, when there are some methods which they always have to be executed in a special and constant order, then make a helper method and call those methods in it's body.
 </p>
+
+<p align="justify">
+    13. One Pile: Sometimes people break a method or class to very tiny chunks of code that makes the code harder to read. In these times you have to put tiny parts in one place which are relate to each other to make the code readable.
+</p>
