@@ -5,6 +5,10 @@ Here is my Highlights of Tidy First? book. It has been written by Kent Beck.
     <img src="./Tidy%20First%20-%20Kent%20Beck%20-%20Highlights.png" />
 </p>
 
+<h4>
+  Part I: Tidyingg  
+</h4>
+
 <p align="justify">
 1. Guard Clauses: Use guard clauses as long as the code does not get complicated. The "Only one return" rule is deprecated and it is for FORTRAN period. It's better to use multiple returns instead of huge gaurd clauses.
 </p>
@@ -67,5 +71,5 @@ Remember, Sometimes better cohesion helps you live with the coupling.
 </p>
 
 <p align="justify">
-    15. 
+    15. Delete Redundant Comments: If there is a simple and straightforward code, and it has some comments to explain it, then just delete it. Writing comment for any code is a bad thing. Because it consumes the reader's time.
 </p>
