@@ -35,11 +35,15 @@ Remember, Sometimes better cohesion helps you live with the coupling.
 </p>
 
 <p align="justify">
-    8. 
+    8. Explaining Variables: Break big expressions to multiple small expressions and keep them in variables with meaningfull names.
+</p>
+
+<p align="center">
+    ATTENTION: As always, separate the tidying commit from the behavior change commit.
 </p>
 
 <p align="justify">
-    9. 
+    9. Explaining Constants: Make hard coded numbers and strings and ..., into a constant variable with meaningfull name. Remember before using one constant variable instead of a repeated hardcode value, check the meaning of that value in the context of the code. Because it's meaning can be something totaly different than the constant variable which it's value is equal to the mentioned one.
 </p>
 
 <p align="justify">
