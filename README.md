@@ -61,3 +61,11 @@ Remember, Sometimes better cohesion helps you live with the coupling.
 <p align="justify">
     13. One Pile: Sometimes people break a method or class to very tiny chunks of code that makes the code harder to read. In these times you have to put tiny parts in one place which are relate to each other to make the code readable.
 </p>
+
+<p align="justify">
+    14. Explaining Comments: When reading a code, and you get to "Hah, now I get it" point, write down what things made the code complicated. When you don't want to change the code, or you don't have time to do it, try to write some meaningful comments for the complicated parts. Write the comments in a way that other readers in future can figure it out with no difficulty.
+</p>
+
+<p align="justify">
+    15. 
+</p>
