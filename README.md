@@ -73,3 +73,13 @@ Remember, Sometimes better cohesion helps you live with the coupling.
 <p align="justify">
     15. Delete Redundant Comments: If there is a simple and straightforward code, and it has some comments to explain it, then just delete it. Writing comment for any code is a bad thing. Because it consumes the reader's time.
 </p>
+
+
+<h4>
+  Part II: Managing  
+</h4>
+
+<p align="justify">
+    16. Separate Tidying: There some pull requests which the behavior changes and tydings are included. These kind of pull requests get too large that makes it hard for reviewers to read and understand the changes. When pull requests get separated based on behavior changes and tydings, the count of pull requests increases. But after a few pull requests a pattern comes with the order of pull requests. There are some pros and cons that need trade-offs to choose a suitable pull request for the team.
+</p>
+
