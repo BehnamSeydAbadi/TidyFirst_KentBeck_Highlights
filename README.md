@@ -83,3 +83,7 @@ Remember, Sometimes better cohesion helps you live with the coupling.
     16. Separate Tidying: There some pull requests which the behavior changes and tydings are included. These kind of pull requests get too large that makes it hard for reviewers to read and understand the changes. When pull requests get separated based on behavior changes and tydings, the count of pull requests increases. But after a few pull requests a pattern comes with the order of pull requests. There are some pros and cons that need trade-offs to choose a suitable pull request for the team.
 </p>
 
+<p align="justify">
+    17. Chaining: In tidying, you should be aware of how much tidying is too much tidying. Because tidying is like potato chips. When you do one tidying, you want more. Remember, when tidyings get too much and too fast, it's a smell that you are over tidying that can become a failed tidying.
+</p>
+
