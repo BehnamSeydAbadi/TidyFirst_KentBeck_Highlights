@@ -87,3 +87,10 @@ Remember, Sometimes better cohesion helps you live with the coupling.
     17. Chaining: In tidying, you should be aware of how much tidying is too much tidying. Because tidying is like potato chips. When you do one tidying, you want more. Remember, when tidyings get too much and too fast, it's a smell that you are over tidying that can become a failed tidying.
 </p>
 
+<p align="justify">
+    18. Batch Sizes: In tidying, you should remember that you are making things right to make the playground ready for the requested behavior changes. To get the balance in trade-offs of tidying you need to checkout these three parts:
+I) Collisions: The more tidyings per batch, the longer the delay before integrating, and the greater the chance that a tidying collides with work someone else is doing.
+II) Interactions: the chance of a batch accidentally changing behavior rises with the number of tidyings in the batch.
+III) Speculation: The more tidyings per batch, the more we are prone to tidying just because, with all the additional costs that creates
+</p>
+
