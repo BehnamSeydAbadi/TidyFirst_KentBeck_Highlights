@@ -97,3 +97,7 @@ III) Speculation: The more tidyings per batch, the more we are prone to tidying 
 <p align="justify">
     19. Rhythm: The reason of tidying is to make behavior changes easy in future. The tidying should take a few minutes to one hour. If it passes one hour you neen to be carefull. Because it could be you are going in a wrong path. To figure out you should check it out and think again what's going on. If it was reasnable for you to do tidying more than one hour then you should keep on. But it should not take more than that, if it happen check it again.
 </p>
+
+<p align="justify">
+    20. Getting Untangled: You pass a test, then you tidy the code. You pass another test, then you tidy the code again. This cycle keeps on and on. Once you see that there is a mess in your commits and pull requests. Because it's messy and for reviewers of the pull request it's hard to figure it out what's going on. The best option is to undo every thing do it all again to keep the commits and pull requests clean and make it easer for reviewers to read it.
+</p>
