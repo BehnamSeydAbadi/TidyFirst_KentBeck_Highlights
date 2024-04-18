@@ -6,7 +6,7 @@ Here is my Highlights of Tidy First? book. It has been written by Kent Beck.
 </p>
 
 <h4>
-  Part I: Tidyingg  
+  Part I: Tidying
 </h4>
 
 <p align="justify">
