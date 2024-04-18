@@ -94,3 +94,6 @@ II) Interactions: the chance of a batch accidentally changing behavior rises wit
 III) Speculation: The more tidyings per batch, the more we are prone to tidying just because, with all the additional costs that creates
 </p>
 
+<p align="justify">
+    19. Rhythm: The reason of tidying is to make behavior changes easy in future. The tidying should take a few minutes to one hour. If it passes one hour you neen to be carefull. Because it could be you are going in a wrong path. To figure out you should check it out and think again what's going on. If it was reasnable for you to do tidying more than one hour then you should keep on. But it should not take more than that, if it happen check it again.
+</p>
